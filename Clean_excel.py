@@ -19,5 +19,4 @@ def clean_excel(input_file, output_file):
     print(f"✅ Bestand opgeschoond en opgeslagen als: {output_file}")
 
 
-# Voorbeeld gebruik:
-# clean_excel("oorspronkelijk.xlsx", "opgeschoond.xlsx")
+
